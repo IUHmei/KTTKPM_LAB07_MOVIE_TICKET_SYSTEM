@@ -5,7 +5,7 @@ import com.iuh.movie_service.model.Movie;
 import java.util.ArrayList;
 import java.util.List;
 
-public class MovieRepository {
+public class MovieRepository { 
 
     private final List<Movie> movies = new ArrayList<>();
 

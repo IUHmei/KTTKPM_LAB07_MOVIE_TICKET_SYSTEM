@@ -6,7 +6,7 @@ public class Movie {
     private String genre;
     private int duration;
 
-    public Movie() {}
+    public Movie() {} 
 
     public Movie(int id, String title, String genre, int duration) {
         this.id = id;

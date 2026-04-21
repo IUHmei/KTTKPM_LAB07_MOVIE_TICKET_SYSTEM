@@ -5,6 +5,6 @@ import com.iuh.movie_service.model.Movie;
 import java.util.List;
 
 public interface MovieService {
-    List<Movie> getAll();
+    List<Movie> getAll(); 
     void add(Movie movie);
 }
